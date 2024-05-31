@@ -1,0 +1,18 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(é“šÂ8²ŸÂ ü1
+{
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßô¹æüÿÿÿÿ8²ŸÂ ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔóãÊ8£Á° ü1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8™¼Ã ü1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8™¼Ã ü1
+C
+java:S1452"&Remove usage of generic wildcard type.(ÚïıÀ8œ¼Ã ü1
+H
+java:S1452 "&Remove usage of generic wildcard type.(ğèìúÿÿÿÿ8¼Ã ü1
+H
+java:S14521"&Remove usage of generic wildcard type.(Ë÷Œøùÿÿÿÿ8Ÿ¼Ã ü1
+[
+java:S11553">Use isEmpty() to check whether the collection is empty or not.(ÈÖ¶8áÊ¨Èü1

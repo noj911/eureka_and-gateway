@@ -1,0 +1,11 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8œŞË ü1
+H
+java:S1452"&Remove usage of generic wildcard type.(ŠÁ¾”ùÿÿÿÿ8ºë¯òü1
+H
+java:S1452"&Remove usage of generic wildcard type.(Ë÷Œøùÿÿÿÿ8»ë¯òü1
+]
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ØØØ‚8¼ë¯òü1
+C
+java:S1452"&Remove usage of generic wildcard type.(ØØØ‚8¼ë¯òü1

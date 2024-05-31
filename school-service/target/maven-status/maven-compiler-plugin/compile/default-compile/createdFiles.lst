@@ -1,0 +1,5 @@
+com\hexagon\schoolservice\repository\SchoolRepository.class
+com\hexagon\schoolservice\service\SchoolService.class
+com\hexagon\schoolservice\entity\School.class
+com\hexagon\schoolservice\controller\SchoolController.class
+com\hexagon\schoolservice\SchoolServiceApplication.class
